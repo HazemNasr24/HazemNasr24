@@ -8,7 +8,7 @@
     <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9525nx2hasiq6pptd30pbjk44r135tt34h1r2nbgsq6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" align="right" width="35%"/>
     
 ## ✨&nbsp; About Me
-- Undergraduate in Electronics and Communication Engineering, Interested in electronics and technology in general, especially Embedded Systems.
+- Undergraduate in Electronics and Communication Engineering, Interested in Network and Security.
 
 
 ## 💻🛠 &nbsp; Languages & Tools
