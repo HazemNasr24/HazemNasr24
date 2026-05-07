@@ -29,12 +29,3 @@
 - **Firewall Administration:** Configured FortiGate policies, SSL VPNs, and SD-WAN in virtualized environments.
 - **Network Analysis:** Used Wireshark for deep packet inspection (DPI) to identify network bottlenecks and security threats.
 
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" alt="Hazem's Stats" />
-</p>
-
----
-<p align="center">
-  <i>"The best way to predict the future is to build it secure."</i>
-</p>
