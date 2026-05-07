@@ -14,7 +14,7 @@ implementing routing, switching, and security solutions with hands-on practice i
 Seeking an internship or entry-level position to contribute technical expertise while continuing to develop advanced 
 networking and cybersecurity skills. 
 
-## 💻🛠 &nbsp; Languages & Tools
+## 💻🛠 &nbsp; Tools
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-2C2D72?style=flat&logo=gns3&logoColor=white)
 ![PNETLab](https://img.shields.io/badge/PNETLab-EA4335?style=flat&logo=proxmox&logoColor=white)
