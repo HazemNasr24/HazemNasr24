@@ -29,3 +29,9 @@
 - **Firewall Administration:** Configured FortiGate policies, SSL VPNs, and SD-WAN in virtualized environments.
 - **Network Analysis:** Used Wireshark for deep packet inspection (DPI) to identify network bottlenecks and security threats.
 
+
+
+---
+<p align="center">
+  <i>"The best way to predict the future is to build it secure."</i>
+</p>
