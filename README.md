@@ -15,13 +15,10 @@ Seeking an internship or entry-level position to contribute technical expertise 
 networking and cybersecurity skills. 
 
 ## 💻🛠 &nbsp; Languages & Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flate&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
-
-
-
-              
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-2C2D72?style=flat&logo=gns3&logoColor=white)
+![PNETLab](https://img.shields.io/badge/PNETLab-EA4335?style=flat&logo=proxmox&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat&logo=fortinet&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
