@@ -8,8 +8,11 @@
     <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9525nx2hasiq6pptd30pbjk44r135tt34h1r2nbgsq6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" align="right" width="35%"/>
     
 ## ✨&nbsp; About Me
-- Undergraduate in Electronics and Communication Engineering, Interested in Network and Security.
-
+- Electronics and Communications Engineering student with a strong focus on Networking and Network Security. 
+Experienced in configuring, securing, and troubleshooting enterprise networks using Cisco technologies. I am skilled in 
+implementing routing, switching, and security solutions with hands-on practice in real and simulated environments. 
+Seeking an internship or entry-level position to contribute technical expertise while continuing to develop advanced 
+networking and cybersecurity skills. 
 
 ## 💻🛠 &nbsp; Languages & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flate&logo=c&logoColor=white)
